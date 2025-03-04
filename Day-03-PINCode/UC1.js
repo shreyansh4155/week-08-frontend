@@ -1,0 +1,1 @@
+const pinCodePattern = /^400088$/; 
